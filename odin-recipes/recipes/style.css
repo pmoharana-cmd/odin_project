@@ -1,0 +1,57 @@
+.introduction {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: lightsalmon;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5%;
+}   
+
+.introduction .description {
+    margin-left: 25%;
+    margin-right: 25%;
+    font-weight: 450;
+    font-size: 18px;
+}
+
+.heading {
+    font-weight: 800;
+    text-decoration: underline;
+}
+
+.title {
+    font-size: 40px;
+}
+
+.ingredients_steps {
+    margin-top: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 10px double pink;
+    border-radius: 20px;
+    background-color: antiquewhite;
+}
+
+li {
+    font-size: 20px;
+    margin: 3px;
+}
+
+.list_title {
+    font-size: 30px;
+    font-weight: 750;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    border: 5px groove white;
+    border-radius: 10%;
+}
